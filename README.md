@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 基于react-redux的前端架构
 
 ## 安装教程
-1.yarn add react-redux
-2.yarn start
-3.yarn build
+1. yarn add react-redux
+2. yarn start
+3. yarn build
 
 ## Available Scripts
 
