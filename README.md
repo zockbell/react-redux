@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 项目简介
+基于react-redux的前端架构
+
+## 安装教程
+1.yarn add react-redux
+2.yarn start
+3.yarn build
+
 ## Available Scripts
 
 In the project directory, you can run:
